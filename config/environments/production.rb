@@ -68,4 +68,3 @@ Bloccit::Application.configure do
   # http://bwitty-bloccit.herokuapp.com
   config.action_mailer.default_url_options = { :host => 'bwitty-bloccit.herokuapp.com' }  
 end
-end
